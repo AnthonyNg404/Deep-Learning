@@ -1,0 +1,21 @@
+MuJoCo Pro Lab license activation key, number 7577, type 6.
+
+Issued to Deep Learning class, Prof. Levine, Stanford.
+
+Expires May 31, 2021.
+
+Do not share this file with anyone other than the users covered
+by your license agreement with Roboti LLC. This file activates
+MuJoCo Pro on any computer running any supported OS.
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+07c057a34a6c27834e116211404aa093860598cb881d806c5f57410abda28528
+27b2a645d31e8ec5b031678a7742d850d624e07582582c4eaecb114fa4c4c47e
+cc59a1c111c738b8a078857288ef31bb9030725d5380371d701a95ea403ae774
+14d9fee0d8dfb42aee9b70e87298261d10040c1ecf59b66e9e965647f62f5ca3
+be60d113e612a3da00b3c2e87caf9b8c56d7c483025c9fd71fcc24643d2fc97c
+f608f9f33316285bc5e6864c3b8e668f6e498706ea1c18119cb82930b97832ca
+bf2eb28a8cc1e471cea523ab1f8e2ddb9c153fc8ba8bd88e567c6c23e85aba61
+6a2c0a3bc7bd109081efc07178b4e8ba29e88771929eff1d72ca37c24374ac0c
